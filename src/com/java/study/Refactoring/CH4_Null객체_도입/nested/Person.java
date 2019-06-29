@@ -1,0 +1,25 @@
+package com.java.study.Refactoring.CH4_Null객체_도입.nested;
+
+public class Person {
+	private final Label _name;
+	private final Label _mail;
+
+	public Person(Label name, Label mail) {
+		_name = name;
+		_mail = mail;
+	}
+
+	public Person(Label name) {
+		this(name, Label.newNull());
+	}
+
+	public void display() {
+		_name.display();
+		_mail.display();
+	}
+
+	public String toString() {
+		return "[Person:name=" + _name + "mail=" + _mail + "]";
+	}
+
+}
