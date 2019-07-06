@@ -16,43 +16,46 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/ValueChangeEvent.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/AddressFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+              <folding>
+                <element signature="e#214#215#0" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#316#317#0" expanded="true" />
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#485#486#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Database.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="e#516#517#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/IntegerDisplay.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/ValueListener.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/Value.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/Graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            <state relative-caret-position="168">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -96,19 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH7_분류코드를_클래스로_치환/after/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH7_분류코드를_클래스로_치환/use_enum/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH7_분류코드를_클래스로_치환/use_enum/ItemType.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH8_분류코드를_하위클래스로_치환/before/Shape.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH8_분류코드를_하위클래스로_치환/before/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH8_분류코드를_하위클래스로_치환/after/ShapeLine.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH8_분류코드를_하위클래스로_치환/after/ShapeRectangle.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH8_분류코드를_하위클래스로_치환/after/ShapeOval.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH8_분류코드를_하위클래스로_치환/after/Shape.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH8_분류코드를_하위클래스로_치환/after/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/before/Logger.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/before/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/State.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/StateStopped.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/StateLogging.java" />
@@ -147,6 +137,19 @@
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/Value.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/Graph.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/IntegerDisplay.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/before/Dice.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/before/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/after/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/after/Dice.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/use_this/Dice.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/before/AddressFile.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/before/Database.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/before/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/after/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/after/AddressFile.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/AddressFile.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Database.java" />
       </list>
     </option>
   </component>
@@ -195,16 +198,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
-              <item name="CH12_관측데이터_복제" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
-              <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
-              <item name="CH12_관측데이터_복제" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
+              <item name="CH14_대리자_은폐" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,15 +210,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.java.study.Refactoring.CH14_대리자_은폐" />
+      <recent name="com.java.study.Refactoring.CH13_상속을_위임으로_치환" />
       <recent name="com.java.study.Refactoring.CH12_관측데이터_복제" />
       <recent name="com.java.study.Refactoring.CH11_생성자를_팩토리_메소드로_치환" />
       <recent name="com.java.study.Refactoring.CH10_에러코드를_예외로_치환" />
-      <recent name="com.java.study.Refactoring.CH9_분류코드를_상태_전략_패턴으로_치환" />
-      <recent name="com.java.study.Refactoring.CH8_분류코드를_하위클래스로_치환" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.java.study.Refactoring.CH9_분류코드를_상태_전략_패턴으로_치환.after" />
@@ -234,11 +228,11 @@
       <recent name="com.java.study.DesignPattern.실전_자바_디자인_패턴.CH3_객체지향설계원칙.리스코프치환원칙.원칙위반.변경사항_반영후" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again" />
+      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/after" />
+      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/use_this" />
+      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/after" />
       <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph" />
-      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/after" />
-      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH11_생성자를_팩토리_메소드로_치환/subclass" />
-      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH11_생성자를_팩토리_메소드로_치환/after" />
-      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -261,12 +255,12 @@
       </method>
     </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH12_관측데이터_복제.after.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH14_대리자_은폐.after.Main" />
       <module name="java_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study.Refactoring.CH12_관측데이터_복제.after.*" />
+          <option name="PATTERN" value="com.java.study.Refactoring.CH14_대리자_은폐.after.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +269,12 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH11_생성자를_팩토리_메소드로_치환.after.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH13_상속을_위임으로_치환.after.Main" />
       <module name="java_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study.Refactoring.CH11_생성자를_팩토리_메소드로_치환.after.*" />
+          <option name="PATTERN" value="com.java.study.Refactoring.CH13_상속을_위임으로_치환.after.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +283,12 @@
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH11_생성자를_팩토리_메소드로_치환.subclass.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH13_상속을_위임으로_치환.use_this.Main" />
       <module name="java_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study.Refactoring.CH11_생성자를_팩토리_메소드로_치환.subclass.*" />
+          <option name="PATTERN" value="com.java.study.Refactoring.CH13_상속을_위임으로_치환.use_this.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,12 +297,12 @@
       </method>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH12_관측데이터_복제.before.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH14_대리자_은폐.before.Main" />
       <module name="java_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study.Refactoring.CH12_관측데이터_복제.before.*" />
+          <option name="PATTERN" value="com.java.study.Refactoring.CH14_대리자_은폐.before.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,26 +311,12 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH2_제어플래그_삭제.FindIntBefore.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH14_대리자_은폐.again.Main" />
       <module name="java_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study.Refactoring.CH2_제어플래그_삭제.FindIntBefore.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH12_관측데이터_복제.graph.Main" />
-      <module name="java_study" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java.study.Refactoring.CH12_관측데이터_복제.graph.*" />
+          <option name="PATTERN" value="com.java.study.Refactoring.CH14_대리자_은폐.again.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -487,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562071082214</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="자바로 배우는 리팩토링 입문 (~CH12)">
+      <created>1562386659570</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562386659570</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -502,12 +489,12 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1656017" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32953367" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32953367" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -529,151 +516,10 @@
     <MESSAGE value="자바로 배우는 리팩토링 입문 (~CH8)" />
     <MESSAGE value="자바로 배우는 리팩토링 입문 (~CH9)" />
     <MESSAGE value="자바로 배우는 리팩토링 입문 (~CH11)" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바로 배우는 리팩토링 입문 (~CH11)" />
+    <MESSAGE value="자바로 배우는 리팩토링 입문 (~CH12)" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바로 배우는 리팩토링 입문 (~CH12)" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/before/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/before/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/State.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/StateStopped.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/StateLogging.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="63" column="64" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/use_enum/StateLogging.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/use_enum/StateStopped.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/use_enum/State.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/use_enum/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/use_enum/Logger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#821#822#0" expanded="true" />
-            <element signature="e#842#843#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Position.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Direction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#440#457#0" expanded="true" />
-            <element signature="e#760#761#0" expanded="true" />
-            <element signature="e#779#780#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#827#828#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Robot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="455">
@@ -975,13 +821,6 @@
     <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/Value.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/ValueChangeEvent.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -996,6 +835,213 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="394">
           <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/before/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/before/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/after/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/after/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/use_this/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/use_this/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/before/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#816#817#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/before/AddressFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/address.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/after/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/before/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/after/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/after/AddressFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/AddressFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Database.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
