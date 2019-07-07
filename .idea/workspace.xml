@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0336eb34-296f-47c4-bca5-4d67ea561a16" name="Default Changelist" comment="" />
+    <list default="true" id="0336eb34-296f-47c4-bca5-4d67ea561a16" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,52 +12,89 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/AddressFile.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+            <state relative-caret-position="336">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#255#256#0" expanded="true" />
-                <element signature="e#286#287#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Database.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="e#516#517#0" expanded="true" />
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#869#870#0" expanded="true" />
-                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#352#353#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVTreePrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="308">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVStringReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" selection-start-column="55" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#158#159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVFileReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVTablePrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVPrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,22 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/State.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/StateStopped.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/StateLogging.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/after/Logger.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/use_enum/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH9_분류코드를_상태_전략_패턴으로_치환/use_enum/Logger.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Command.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Position.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Direction.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Robot.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/Direction.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/Robot.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/InvalidCommandException.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/Command.java" />
-        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state/Robot.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state/Command.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state/Main.java" />
@@ -150,11 +173,27 @@
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Main.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/AddressFile.java" />
         <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Database.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/file.csv" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVReader.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVFileTreePrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVStringTablePrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVFileReader.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVStringReader.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVStringTablePrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVFileTreePrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVReader.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVFileReader.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVStringReader.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVTablePrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVTreePrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-253" />
+    <option name="x" value="-242" />
     <option name="y" value="-1057" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
@@ -198,7 +237,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
               <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
-              <item name="CH14_대리자_은폐" type="462c0819:PsiDirectoryNode" />
+              <item name="CH15_상속_구조_정리" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="Refactoring" type="462c0819:PsiDirectoryNode" />
+              <item name="CH15_상속_구조_정리" type="462c0819:PsiDirectoryNode" />
+              <item name="after" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -210,15 +258,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.java.study.Refactoring.CH15_상속_구조_정리" />
       <recent name="com.java.study.Refactoring.CH14_대리자_은폐" />
       <recent name="com.java.study.Refactoring.CH13_상속을_위임으로_치환" />
       <recent name="com.java.study.Refactoring.CH12_관측데이터_복제" />
       <recent name="com.java.study.Refactoring.CH11_생성자를_팩토리_메소드로_치환" />
-      <recent name="com.java.study.Refactoring.CH10_에러코드를_예외로_치환" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.java.study.Refactoring.CH9_분류코드를_상태_전략_패턴으로_치환.after" />
@@ -228,11 +276,11 @@
       <recent name="com.java.study.DesignPattern.실전_자바_디자인_패턴.CH3_객체지향설계원칙.리스코프치환원칙.원칙위반.변경사항_반영후" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after" />
+      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리" />
       <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again" />
       <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/after" />
       <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/use_this" />
-      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH13_상속을_위임으로_치환/after" />
-      <recent name="$PROJECT_DIR$/src/com/java/study/Refactoring/CH12_관측데이터_복제/graph" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -247,7 +295,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -268,13 +316,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH13_상속을_위임으로_치환.after.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH15_상속_구조_정리.before.Main" />
       <module name="java_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study.Refactoring.CH13_상속을_위임으로_치환.after.*" />
+          <option name="PATTERN" value="com.java.study.Refactoring.CH15_상속_구조_정리.before.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,13 +330,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH13_상속을_위임으로_치환.use_this.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.study.Refactoring.CH15_상속_구조_정리.after.Main" />
       <module name="java_study" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.study.Refactoring.CH13_상속을_위임으로_치환.use_this.*" />
+          <option name="PATTERN" value="com.java.study.Refactoring.CH15_상속_구조_정리.after.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,19 +446,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -474,24 +522,27 @@
       <option name="project" value="LOCAL" />
       <updated>1562386659570</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="자바로 배우는 리팩토링 입문 (~CH14)">
+      <created>1562405153261</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1562405153261</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-253" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1656017" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16719915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32953367" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32953367" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32953367" />
@@ -499,14 +550,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32953367" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -517,134 +572,10 @@
     <MESSAGE value="자바로 배우는 리팩토링 입문 (~CH9)" />
     <MESSAGE value="자바로 배우는 리팩토링 입문 (~CH11)" />
     <MESSAGE value="자바로 배우는 리팩토링 입문 (~CH12)" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바로 배우는 리팩토링 입문 (~CH12)" />
+    <MESSAGE value="자바로 배우는 리팩토링 입문 (~CH14)" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바로 배우는 리팩토링 입문 (~CH14)" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/before/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/Position.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/Direction.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="30" column="57" lean-forward="true" selection-start-line="30" selection-start-column="57" selection-end-line="30" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/after/InvalidCommandException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="5" column="31" lean-forward="true" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding>
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#679#680#0" expanded="true" />
-            <element signature="e#701#702#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
-          <folding>
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#907#908#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
-            <element signature="e#1105#1106#0" expanded="true" />
-            <element signature="e#1166#1167#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state/InvalidCommandException.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state/Position.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH10_에러코드를_예외로_치환/state/Direction.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH11_생성자를_팩토리_메소드로_치환/before/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH11_생성자를_팩토리_메소드로_치환/before/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding>
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#1223#1224#0" expanded="true" />
-            <element signature="e#1250#1251#0" expanded="true" />
-            <element signature="e#1313#1314#0" expanded="true" />
-            <element signature="e#1340#1341#0" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1418#1419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH11_생성자를_팩토리_메소드로_치환/after/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -958,9 +889,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/address.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/address.txt" />
     <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/after/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1040,8 +969,151 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH14_대리자_은폐/again/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="350">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/file.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVStringTablePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVStringReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/file.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/CSVFileTreePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/before/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVTablePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVStringReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="55" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/java/study/Refactoring/CH15_상속_구조_정리/after/CSVTreePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
